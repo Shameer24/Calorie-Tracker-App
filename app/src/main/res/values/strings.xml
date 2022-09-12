@@ -1,0 +1,36 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">SnapFood</string>
+
+    <string name="openDrawer" tools:ignore="MissingTranslation">open_drawer</string>
+    <string name="closeDrawer" translatable="false">close_drawer</string>
+
+    <!-- Navigation Drawer menu labels -->
+    <string name="pastmeals" translatable="false">Past Meals</string>
+    <string name="suggestions" translatable="false">Suggestions</string>
+    <string name="profile" translatable="false">Profile</string>
+    <string name="settings" translatable="false">Settings</string>
+
+    <!-- Toolbar titles when navigation menu item is selected -->
+    <string-array name="nav_item_activity_titles">
+        <item>Past Meals</item>
+        <item>Suggestions</item>
+        <item>Profile</item>
+        <item>Settings</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+
+    <string name="deletemeals" translatable="false">Delete this meal?</string>
+    <string name="DELETE" translatable="false">DELETE</string>
+    <string name="CANCEL" translatable="false">CANCEL</string>
+
+
+    <string name="login_or_sign_up_info" translatable="false">Login</string>
+    <string name="login_as_vistor" translatable="false">Login as visitor</string>
+    <string name="privacy_policy" translatable="false">By signing up, you agree to the <a href='https://www.applozic.com/privacy.html'>privacy policy</a></string>
+    <string name="some_error_occured" translatable="false">Some error occurred</string>
+    <string name="login_as_visitor_info" translatable="false">When logging in as visitor, you don\'t need to fill the email and password fields.Clicking the \'Login as visitor\' button will log you in with a random userId</string>
+    <string name="invalid_app_id_error" translatable="false">Looks like you have not added your application Id in your app level build.gradle file. Please provide your application ID in app level build.gradle file\'s defaultConfig <a href='https://github.com/Kommunicate-io/Kommunicate-Android-Chat-SDK'>Refer here</a>. Replace &lt;Your-APP-ID&gt; with the application ID obtained from Kommunicate dashboard.</string>
+
+</resources>

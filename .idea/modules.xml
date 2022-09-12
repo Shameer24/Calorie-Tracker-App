@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CalorieTracker.iml" filepath="$PROJECT_DIR$/.idea/modules/CalorieTracker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CalorieTracker.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CalorieTracker.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kommunicate/CalorieTracker.kommunicate.iml" filepath="$PROJECT_DIR$/.idea/modules/kommunicate/CalorieTracker.kommunicate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kommunicateui/CalorieTracker.kommunicateui.iml" filepath="$PROJECT_DIR$/.idea/modules/kommunicateui/CalorieTracker.kommunicateui.iml" />
+    </modules>
+  </component>
+</project>

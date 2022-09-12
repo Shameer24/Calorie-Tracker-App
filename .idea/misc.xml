@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/crist/AndroidStudioProjects/SnapFood/app/src/main/res/drawable/chatbg.xml" value="0.1375" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/SnapFood/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1375" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/SnapFood/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1375" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/SnapFood/app/src/main/res/drawable/km_loading_anim.xml" value="0.1375" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/SnapFood/app/src/main/res/layout-v17/activity_chatbot.xml" value="0.1" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/SnapFood/app/src/main/res/layout-v17/main_chatbot.xml" value="0.2" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/SnapFood/app/src/main/res/layout/activity_camera.xml" value="0.2" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/SnapFood/app/src/main/res/layout/activity_chatbot.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/SnapFood/app/src/main/res/layout/activity_details.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/SnapFood/app/src/main/res/layout/activity_edit_days.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/SnapFood/app/src/main/res/layout/activity_edit_goal.xml" value="0.1" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/SnapFood/app/src/main/res/layout/activity_edit_name.xml" value="0.22" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/SnapFood/app/src/main/res/layout/activity_edit_snacks.xml" value="0.1" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/SnapFood/app/src/main/res/layout/activity_edit_weeks.xml" value="0.1" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/SnapFood/app/src/main/res/layout/activity_edit_weight.xml" value="0.1" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/SnapFood/app/src/main/res/layout/activity_main.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/SnapFood/app/src/main/res/layout/activity_prediction.xml" value="0.22" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/SnapFood/app/src/main/res/layout/activity_splash_screen.xml" value="0.2" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/SnapFood/app/src/main/res/layout/app_bar_main.xml" value="0.22" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/SnapFood/app/src/main/res/layout/bmi_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/SnapFood/app/src/main/res/layout/dummy.xml" value="0.1" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/SnapFood/app/src/main/res/layout/dummy_data.xml" value="0.1" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/SnapFood/app/src/main/res/layout/fragment_delete_meals.xml" value="0.1361111111111111" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/SnapFood/app/src/main/res/layout/fragment_past_meals.xml" value="0.22" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/SnapFood/app/src/main/res/layout/fragment_profile.xml" value="0.1361111111111111" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/SnapFood/app/src/main/res/layout/fragment_suggestions.xml" value="0.1361111111111111" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/SnapFood/app/src/main/res/layout/main_chatbot.xml" value="0.2" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/SnapFood/app/src/main/res/layout/profilelayout.xml" value="0.1361111111111111" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/SnapFood/app/src/main/res/layout/rowlayout.xml" value="0.22" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/SnapFood/app/src/main/res/layout/rowlayout2.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/SnapFood/app/src/main/res/menu/activity_main_drawer.xml" value="0.22" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/SnapFood/app/src/main/res/menu/menu_button_save.xml" value="0.22" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/SnapFood/app/src/main/res/menu/menu_camera.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/crist/AndroidStudioProjects/SnapFood/app/src/main/res/menu/menu_main.xml" value="0.1361111111111111" />
+      </map>
+    </option>
+  </component>
+  <component name="NullableNotNullManager">
+    <option name="myDefaultNullable" value="android.support.annotation.Nullable" />
+    <option name="myDefaultNotNull" value="android.support.annotation.NonNull" />
+    <option name="myNullables">
+      <value>
+        <list size="12">
+          <item index="0" class="java.lang.String" itemvalue="org.jetbrains.annotations.Nullable" />
+          <item index="1" class="java.lang.String" itemvalue="javax.annotation.Nullable" />
+          <item index="2" class="java.lang.String" itemvalue="edu.umd.cs.findbugs.annotations.Nullable" />
+          <item index="3" class="java.lang.String" itemvalue="android.support.annotation.Nullable" />
+          <item index="4" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NullableDecl" />
+          <item index="5" class="java.lang.String" itemvalue="androidx.annotation.Nullable" />
+          <item index="6" class="java.lang.String" itemvalue="org.eclipse.jdt.annotation.Nullable" />
+          <item index="7" class="java.lang.String" itemvalue="com.android.annotations.Nullable" />
+          <item index="8" class="java.lang.String" itemvalue="androidx.annotation.RecentlyNullable" />
+          <item index="9" class="java.lang.String" itemvalue="javax.annotation.CheckForNull" />
+          <item index="10" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.qual.Nullable" />
+          <item index="11" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NullableType" />
+        </list>
+      </value>
+    </option>
+    <option name="myNotNulls">
+      <value>
+        <list size="11">
+          <item index="0" class="java.lang.String" itemvalue="org.jetbrains.annotations.NotNull" />
+          <item index="1" class="java.lang.String" itemvalue="javax.annotation.Nonnull" />
+          <item index="2" class="java.lang.String" itemvalue="edu.umd.cs.findbugs.annotations.NonNull" />
+          <item index="3" class="java.lang.String" itemvalue="android.support.annotation.NonNull" />
+          <item index="4" class="java.lang.String" itemvalue="androidx.annotation.RecentlyNonNull" />
+          <item index="5" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.qual.NonNull" />
+          <item index="6" class="java.lang.String" itemvalue="com.android.annotations.NonNull" />
+          <item index="7" class="java.lang.String" itemvalue="androidx.annotation.NonNull" />
+          <item index="8" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NonNullType" />
+          <item index="9" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NonNullDecl" />
+          <item index="10" class="java.lang.String" itemvalue="org.eclipse.jdt.annotation.NonNull" />
+        </list>
+      </value>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

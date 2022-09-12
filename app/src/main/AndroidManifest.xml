@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.shameer.CalorieTracker">
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-permission android:name="com.example.raymond.snapfood.permission.MAPS_RECEIVE"/>
+    <permission
+        android:name="com.example.shameer.CalorieTracker.permission.MAPS_RECEIVE"
+        android:protectionLevel ="signature" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+
+    <application
+        android:allowBackup="true"
+        android:usesCleartextTraffic="true"
+        tools:replace="android:allowBackup,android:icon"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:screenOrientation="portrait"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="com.example.shameer.CalorieTracker.MainActivity"
+            android:exported="true"
+            android:label="Past Meals">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.shameer.CalorieTracker.CameraActivity" />
+        <activity android:name="com.example.shameer.CalorieTracker.PredictionActivity" android:parentActivityName="com.example.shameer.CalorieTracker.MainActivity" />
+        <activity android:name="com.example.shameer.CalorieTracker.EditGenderActivity" />
+        <activity android:name="com.example.shameer.CalorieTracker.EditCurrentWeightActivity" />
+        <activity android:name="com.example.shameer.CalorieTracker.EditGoalWeightActivity" />
+        <activity android:name="com.example.shameer.CalorieTracker.EditHeightActivity" />
+        <activity android:name="com.example.shameer.CalorieTracker.EditAgeActivity" />
+        <activity android:name="com.example.shameer.CalorieTracker.EditDaysActivity" />
+        <activity android:name="com.example.shameer.CalorieTracker.DetailsActivity"></activity>
+        <activity android:name="com.example.shameer.CalorieTracker.BMImain"/>
+
+
+        <activity
+            android:name="com.example.shameer.CalorieTracker.ChatbotActivity"
+            android:launchMode="singleTask"
+             />
+        <activity
+            android:name="com.example.shameer.CalorieTracker.SplashScreenActivity"
+            android:launchMode="singleTask"
+            android:exported="true"/>
+
+
+        <service
+            android:name="com.example.shameer.CalorieTracker.pushnotification.FcmListenerService"
+            android:exported="true"
+            android:stopWithTask="false">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyAv1wf5eMyErPaU3l8EnMUmOsoYJ2joC70" />
+
+
+<!--        <meta-data-->
+<!--            android:name="com.applozic.server.url"-->
+<!--            android:value="https://apps-test.applozic.com"-->
+<!--            tools:node="replace"/>-->
+
+<!--        <meta-data-->
+<!--            android:name="io.kommunicate.server.url"-->
+<!--            android:value="https://api-test.kommunicate.io"-->
+<!--            tools:node="replace"/>-->
+
+<!--       <meta-data-->
+<!--           android:name="com.applozic.mobicomkit.notification.iconColor"-->
+<!--           android:resource="@color/colorPrimary"/>-->
+
+    </application>
+
+
+</manifest>
